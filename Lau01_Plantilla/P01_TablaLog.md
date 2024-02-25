@@ -18,8 +18,8 @@
 | 2018-05-09    | Step01_step | notes       | notes                 | doc/link          |  
 
     
-| **Results:**| here|  
-|-------------------|    
+**Results:**
+ 
 
-| **Next steps:**| here|
-|----------------------|  
+**Next steps:**
+
