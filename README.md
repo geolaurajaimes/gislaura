@@ -2,24 +2,24 @@
 
 ## - [a1templates directory](https://github.com/geolaurajaimes/gislaura/tree/main/a1templates)
    - [t1log.md](https://github.com/geolaurajaimes/gislaura/blob/main/a1templates/t1log.md)
-## - [a1webdevelopment](https://github.com/geolaurajaimes/gislaura/tree/main/a1webdevelopment)
-   - [List of task](https://github.com/geolaurajaimes/gislaura/blob/main/a1webdevelopment/readme.md)
-   - [Virtual Machine](https://github.com/geolaurajaimes/gislaura/blob/main/a1webdevelopment/w01_virtualmachine.md)
-## - [a2dbdevelopment](#)
+## - [a01webdevelopment](https://github.com/geolaurajaimes/gislaura/tree/main/a01webdevelopment)
+   - [List of task](https://github.com/geolaurajaimes/gislaura/blob/main/a01webdevelopment/readme.md)
+   - [Virtual Machine](https://github.com/geolaurajaimes/gislaura/blob/main/a01webdevelopment/w01_virtualmachine.md)
+## - [a02dbdevelopment](#)
    - item [enlace](URL)
-## - a3customizationgisapps
+## - a03customizationgisapps
    - item [enlace](URL)
-## - a4advremotesensing
+## - a04advremotesensing
    - item [enlace](URL)
-## - a5environmentalmodelling
+## - a05environmentalmodelling
    - item [enlace](URL)
-## - a6spatialanalysis2
+## - a06spatialanalysis2
    - item [enlace](URL)
-## - a7spatialanalysis1
+## - a07spatialanalysis1
    - item [enlace](URL)
-## - a8geodesy
+## - a08geodesy
    - item [enlace](URL)
-## - a9geovisualization
+## - a09geovisualization
    - item [enlace](URL)
 ## - a10programming
    - item [enlace](URL)
