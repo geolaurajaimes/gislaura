@@ -12,8 +12,12 @@
 **No attempt** 02 de 02  
   
   
-| **Date**      | **Step No** | **Documentation** | **Description/Notes** | **Key/Tip** |
-|---------------|-------------|-------------------|-----------------------|-------------|
-| 2018-05-09    | Step01_step | doc/link          | notes                 | notes       |
-| 2018-05-09    | Step01_step | doc/link          | notes                 | notes       |
-
+| **Date**      | **Step No** | **Key/Tip** | **Description/Notes** | **Documentation** |
+|---------------|-------------|-------------|-----------------------|-------------------|
+| 2018-05-09    | Step01_step | notes       | notes                 | doc/link          |
+| 2018-05-09    | Step01_step | notes       | notes                 | doc/link          |
+  
+| **Results:**| here                                |
+|---------------------------------------------------|  
+| **Next steps:**| here                             |
+|---------------------------------------------------|  
