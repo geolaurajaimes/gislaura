@@ -15,8 +15,9 @@
 | **Date**      | **Step No** | **Key/Tip** | **Description/Notes** | **Documentation** |
 |---------------|-------------|-------------|-----------------------|-------------------|
 | 2018-05-09    | Step01_step | notes       | notes                 | doc/link          |
-| 2018-05-09    | Step01_step | notes       | notes                 | doc/link          |
-  
+| 2018-05-09    | Step01_step | notes       | notes                 | doc/link          |  
+
+    
 | **Results:**| here                                |
 |---------------------------------------------------|  
 | **Next steps:**| here                             |
