@@ -44,12 +44,12 @@ Now an image will be taken and deployed into this as a virtual machine.
    - Region:  us-central1 (Ioma)  
    - Zone:  us-central1-a  
    - Machine:  
-     - (*) Series: E2  
-     - (*) Machine type: e2-medium (2 vCFU, 4 GB memory)  
+     - Series: E2  
+     - Machine type: e2-medium (2 vCFU, 4 GB memory)  
      - Boot disk: if is linux, can be changed to windows  
-     - (*) Custom Images Tab  
-       - Source project for images: the project which contain the image, if the image is in a different project, then click CHANGE, after select the project which contain the image, and OK.  
-       - image: select the image  
-     - (*) Firewall: Allow HTTP and HTTPS traffic
+     - Custom Images Tab  
+       (+) Source project for images: the project which contain the image, if the image is in a different project, then click CHANGE, after select the project which contain the image, and OK.  
+       (+) image: select the image  
+     - Firewall: Allow HTTP and HTTPS traffic
 
 
