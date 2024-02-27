@@ -95,7 +95,7 @@ Copy and paste the **External IP** from the list of VM intances on the browser, 
 ## Step04_ArcGIS Pro set Server Connection
 Insert > Connection> Add New server conection -> This have to be done everytime publish is wanted, because the External IP of the virual machine intance change everytime the machine is stopped. 
 - In Add ArcGIS Server Connection
-       (+) Server URL: https://**IP**/arcgis/
-       (+) Username: siteadmin
-       (+) Password:
-       (+) Save the log in credential is not neccesary
+       - Server URL: https://**IP**/arcgis/
+       - Username: siteadmin
+       - Password:
+       - Save the log in credential is not neccesary
