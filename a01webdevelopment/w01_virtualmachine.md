@@ -23,7 +23,10 @@
 
 **Next steps:**
 
-# Notes for the process
+
+| # **Notes for the process**                                |
+|-----------------------------------------------------------|
+
 This process starts assuming there are credits in Google Cloud. 
 ## Step 01_ Create VM (Virtual Machine)
 **Virtual Machine:** A virtual machine (VM) is a digital version of a physical computer. Virtual machine software can run programs and operating systems, store data, connect to networks, and do other computing functions, and requires maintenance such as updates and system monitoring. https://cloud.google.com/learn/what-is-a-virtual-machine  
