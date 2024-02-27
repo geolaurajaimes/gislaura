@@ -51,5 +51,16 @@ Now an image will be taken and deployed into this as a virtual machine.
        (+) Source project for images: the project which contain the image, if the image is in a different project, then click CHANGE, after select the project which contain the image, and OK.  
        (+) image: select the image  
      - Firewall: Allow HTTP and HTTPS traffic
+     - Create
 
-
+3. Under Related actions: Set up firewall rules
+   - create a Firewall Rule
+     - Name: flemingrdp444
+     - Direction of traffic: Ingress
+     - Action on match: Allow
+     - Targets: All instances in the network
+     - Source filter: iPv4 ranges
+     - Source of iPv4 ranges: Enter the external ip for your computer -> restricted or 0.0.0.0/0 -> unrestricted
+     - Protocols and ports:
+       (+) TCP: 444  (3389 is default for RDP, 444 will work at fleming)
+     - Create
