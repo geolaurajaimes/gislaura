@@ -16,7 +16,7 @@
 |-----------------------|-------------|-------------|-----------------------|-------------------|
 | 2024-02-27 13:00:00   | Step01_Create VM | notes       | notes                 | doc/link          |
 | 2024-02-27 16:00:00   | Step02_Log in the machine | notes       | notes                 | doc/link          |  
-
+| 2024-02-27 16:57:00   | Step03_Test the machine is running on the web | notes       | notes                 | doc/link          |
     
 **Results:**  
  
@@ -24,7 +24,7 @@
 **Next steps:**
 
 
-| # **Notes for the process**                                |
+| **Notes for the process**                                |
 |-----------------------------------------------------------|
 
 This process starts assuming there are credits in Google Cloud. 
@@ -83,3 +83,19 @@ after copy the IP open **Remote Desktop Connection** or the same **mstsc** (Micr
 - it goes to prompt the user and password (it will popup a message about invalid certificate: YES)
 **Sign out of the virtual machine**
 
+## Step03_Test the machine is running on the web
+Copy and paste the **External IP** from the list of VM intances on the browser, if you see this, that means the web server is replying now. Also https://**IP** can be tried, it will say is not secure because the certificate, but it will continue.
+![server running](../a00templates/img/img4.png)
+
+- https://[IP](https://IP/arcgis/)/arcgis/rest/services check if the Rest endpoint is running
+- https://**IP**/arcgis/manager
+       (+) Username: siteadmin
+       (+) Password:
+
+## Step04_ArcGIS Pro set Server Connection
+Insert > Connection> Add New server conection -> This have to be done everytime publish is wanted, because the External IP of the virual machine intance change everytime the machine is stopped. 
+- In Add ArcGIS Server Connection
+       (+) Server URL: https://**IP**/arcgis/
+       (+) Username: siteadmin
+       (+) Password:
+       (+) Save the log in credential is not neccesary
