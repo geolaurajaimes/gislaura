@@ -27,17 +27,27 @@
 This process starts assuming there are credits in Google Cloud. 
 ## Step 01_ Create VM (Virtual Machine)
 **Virtual Machine:** A virtual machine (VM) is a digital version of a physical computer. Virtual machine software can run programs and operating systems, store data, connect to networks, and do other computing functions, and requires maintenance such as updates and system monitoring. https://cloud.google.com/learn/what-is-a-virtual-machine  
+in https://console.cloud.google.com/welcome  
+  
 ![New VM](../a00templates/img/img1.png)  
   
 It still doesn't work, first you need to "Enable" Compute Engine API
 ![Enable](../a00templates/img/img2.png)  
   
-Now an image will be taken and deployed into this as a virtual machine.
+Now an image will be taken and deployed into this as a virtual machine.  
 1. Create instance ![create instance](../a00templates/img/img3.png) 
-2. In the Create instance windows
-   Name:  
-   Region:  
-   Zone:  
-   
+2. In the Create instance windows  
+   Name:  arcgisserverdemo  
+   Region:  us-central1 (Ioma)  
+   Zone:  us-central1-a  
+   Machine:  
+   (*) Series: E2
+   (*) Machine type: e2-medium (2 vCFU, 4 GB memory)
+   Boot disk: if is linux, can be changed to windows
+   (*) Custom Images Tab
+       **Source project for images:** the project which contain the image, if the image is in a different project, then click CHANGE, after select the project which contain the image, and OK.
+       **image:** select the image
+   (*) Firewall: Allow HTTP and HTTPS traffic
+        
    
 
