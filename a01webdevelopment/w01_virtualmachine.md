@@ -61,6 +61,6 @@ Now an image will be taken and deployed into this as a virtual machine.
      - Targets: All instances in the network
      - Source filter: iPv4 ranges
      - Source of iPv4 ranges: Enter the external ip for your computer -> restricted or 0.0.0.0/0 -> unrestricted
-     - Protocols and ports:
+     - Protocols and ports:  
        (+) TCP: 444  (3389 is default for RDP, 444 will work at fleming)
      - Create
