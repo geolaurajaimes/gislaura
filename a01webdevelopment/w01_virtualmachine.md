@@ -87,7 +87,7 @@ after copy the IP open **Remote Desktop Connection** or the same **mstsc** (Micr
 Copy and paste the **External IP** from the list of VM intances on the browser, if you see this, that means the web server is replying now. Also https://**IP** can be tried, it will say is not secure because the certificate, but it will continue.
 ![server running](../a00templates/img/img4.png)
 
-- https://[IP](https://IP/arcgis/)/arcgis/rest/services check if the Rest endpoint is running
+- https://**IP**/arcgis/rest/services check if the Rest endpoint is running
 - https://**IP**/arcgis/manager
        (+) Username: siteadmin
        (+) Password:
