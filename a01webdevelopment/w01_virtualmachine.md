@@ -15,7 +15,7 @@
 | **Date**              | **Step No** | **Key/Tip** | **Description/Notes** | **Documentation** |
 |-----------------------|-------------|-------------|-----------------------|-------------------|
 | 2024-02-27 13:00:00   | Step01_Create VM | notes       | notes                 | doc/link          |
-| 2024-02-27 16:00:00   | Step01_step | notes       | notes                 | doc/link          |  
+| 2024-02-27 16:00:00   | Step02_Log in the machine | notes       | notes                 | doc/link          |  
 
     
 **Results:**  
@@ -64,3 +64,19 @@ Now an image will be taken and deployed into this as a virtual machine.
      - Protocols and ports:  
        (+) TCP: 444  (3389 is default for RDP, 444 will work at fleming)
      - Create
+
+When tou come back to VM instances, it will be running
+
+## Step02_Log in the machine
+In the row of the list of VM intances, there is a column called Connect/RDP ▼ > set windows password  
+- set the username
+       (+) Copy the password in a notepad
+In the row of the list of VM intances there are two IP
+- internal: if you are in Google Facilities in Iowa
+- external: if you are in a different place
+after copy the IP open **Remote Desktop Connection** or the same **mstsc** (Microsoft Terminal Services Client) desktop window application.
+- Computer: Paste the IP (:444)
+- Click connect
+- it goes to prompt the user and password (it will popup a message about invalid certificate: YES)
+**Sign out of the virtual machine**
+
