@@ -34,20 +34,22 @@ in https://console.cloud.google.com/welcome
 It still doesn't work, first you need to "Enable" Compute Engine API
 ![Enable](../a00templates/img/img2.png)  
   
+      
 Now an image will be taken and deployed into this as a virtual machine.  
+
 1. Create instance ![create instance](../a00templates/img/img3.png) 
+
 2. In the Create instance windows  
-   Name:  arcgisserverdemo  
-   Region:  us-central1 (Ioma)  
-   Zone:  us-central1-a  
-   Machine:  
-   (*) Series: E2
-   (*) Machine type: e2-medium (2 vCFU, 4 GB memory)
-   Boot disk: if is linux, can be changed to windows
-   (*) Custom Images Tab
-       **Source project for images:** the project which contain the image, if the image is in a different project, then click CHANGE, after select the project which contain the image, and OK.
-       **image:** select the image
-   (*) Firewall: Allow HTTP and HTTPS traffic
-        
-   
+   - Name:  arcgisserverdemo  
+   - Region:  us-central1 (Ioma)  
+   - Zone:  us-central1-a  
+   - Machine:  
+     - (*) Series: E2  
+     - (*) Machine type: e2-medium (2 vCFU, 4 GB memory)  
+     - Boot disk: if is linux, can be changed to windows  
+     - (*) Custom Images Tab  
+       - Source project for images: the project which contain the image, if the image is in a different project, then click CHANGE, after select the project which contain the image, and OK.  
+       - image: select the image  
+     - (*) Firewall: Allow HTTP and HTTPS traffic
+
 
