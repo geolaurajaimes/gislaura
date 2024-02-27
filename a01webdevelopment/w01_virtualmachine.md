@@ -8,21 +8,21 @@
   
 **Time run successfully** 30 min  
 **Time expended**         420 min  
-**Link to final product** [www.com](http://www.com)  
+**Link to final product** [NA](http://www.com)  
 **No attempt** 03 de 03  
   
   
-| **Date**              | **Step No** | **Key/Tip** | **Description/Notes** | **Documentation** |
-|-----------------------|-------------|-------------|-----------------------|-------------------|
-| 2024-02-27 13:00:00   | Step01_Create VM | notes       | notes                 | doc/link          |
-| 2024-02-27 16:00:00   | Step02_Log in the machine | notes       | notes                 | doc/link          |  
-| 2024-02-27 16:57:00   | Step03_Test the machine is running on the web | notes       | notes                 | doc/link          |
+| **Date**              | **Step No**                                   | **Key/Tip** | **Description/Notes** | **Documentation** |
+|-----------------------|-----------------------------------------------|-------------|-----------------------|-------------------|
+| 2024-02-27 13:00:00   | Step01_Create VM                              | notes       | notes below           | [doc/link](https://www.youtube.com/watch?v=dyFeyBX9jIY)          |
+| 2024-02-27 16:00:00   | Step02_Log in the machine                     | notes       | notes below           | [doc/link](https://www.youtube.com/watch?v=dyFeyBX9jIY)          |  
+| 2024-02-27 16:57:00   | Step03_Test the machine is running on the web | notes       | notes below           | [doc/link](https://www.youtube.com/watch?v=dyFeyBX9jIY)          |
     
 **Results:**  
- 
+A virtual machine instance is created in the google cloud console, confirmed that it works (web and connecting it to ArcGIS Pro) and disconnected
 
 **Next steps:**
-
+Create a DNS so that the IP does not change every time the machine stops.
 
 | **Notes for the process**                                |
 |-----------------------------------------------------------|
@@ -99,3 +99,14 @@ Insert > Connection> Add New server conection -> This have to be done everytime 
        - Username: siteadmin
        - Password:
        - Save the log in credential is not neccesary
+
+## Step0x_Stop the Virtual Machine
+### First Way
+In VM intances in the console of google cloud, at the end of the row of the VM intance > ┇ > stop
+![stop machine1](../a00templates/img/img4.png)
+### Second Way
+In the remote desktop > Start Menu > Power > Shutdown
+![stop machine2](../a00templates/img/img4.png)
+
+Note: Everytime the machine is stopped, and turned on again, the IP will change to get around this read: 
+[Create DNS](https://github.com/geolaurajaimes/gislaura/blob/main/a01webdevelopment/w02_duckDNS.md)
