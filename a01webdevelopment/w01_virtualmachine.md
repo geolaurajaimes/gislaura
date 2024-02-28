@@ -7,7 +7,7 @@
 **Status:** Ended
   
 **Time run successfully** 30 min  
-**Time expended**         420 min  
+**Time expended**         410 min  
 **Link to final product** [NA](http://www.com)  
 **No attempt** 03 de 03  
   
@@ -15,11 +15,11 @@
 | **Date**              | **Step No**                                   | **Key/Tip** | **Description/Notes** | **Documentation** |
 |-----------------------|-----------------------------------------------|-------------|-----------------------|-------------------|
 | 2024-02-27 11:30:00   | Step01_Create VM                              | notes       | notes below           | [doc/link](https://www.youtube.com/watch?v=dyFeyBX9jIY)          |
-| 2024-02-27 16:00:00   | Step02_Log in the machine                     | notes       | notes below           | [doc/link](https://www.youtube.com/watch?v=dyFeyBX9jIY)          |  
-| 2024-02-27 16:57:00   | Step03_Test the machine is running on the web | notes       | notes below           | [doc/link](https://www.youtube.com/watch?v=dyFeyBX9jIY)          |
-| 2024-02-27 17:17:00   | Step04_ArcGIS Pro set Server Connection       | notes       | notes below           | [doc/link](https://www.youtube.com/watch?v=dyFeyBX9jIY)          |
-| 2024-02-27 18:20:00   | Step05_Stop the Virtual Machine               | notes       | notes below           | [doc/link](https://www.youtube.com/watch?v=dyFeyBX9jIY)          |
-
+| 2024-02-27 13:20:00   | Step02_Log in the machine                     | notes       | notes below           | [doc/link](https://www.youtube.com/watch?v=dyFeyBX9jIY)          |  
+| 2024-02-27 15:57:00   | Step03_Test the machine is running on the web | notes       | notes below           | [doc/link](https://www.youtube.com/watch?v=dyFeyBX9jIY)          |
+| 2024-02-27 16:55:00   | Step04_ArcGIS Pro set Server Connection       | notes       | notes below           | [doc/link](https://www.youtube.com/watch?v=dyFeyBX9jIY)          |
+| 2024-02-27 17:45:00   | Step05_Stop the Virtual Machine               | notes       | notes below           | [doc/link](https://www.youtube.com/watch?v=dyFeyBX9jIY)          |
+| 2024-02-27 18:20:00   | End                                           |
 
 **Results:**  
 A virtual machine instance is created in the google cloud console, confirmed that it works (web and connecting it to ArcGIS Pro) and disconnected
