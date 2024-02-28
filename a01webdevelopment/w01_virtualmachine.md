@@ -77,7 +77,7 @@ Now an image will be taken and deployed into this as a virtual machine.
      - Source filter: iPv4 ranges
      - Source of iPv4 ranges: Enter the external ip for your computer -> restricted or 0.0.0.0/0 -> unrestricted
      - Protocols and ports:  
-       (+) TCP: 444  (3389 is default for RDP, 444 will work at fleming)
+       (+) TCP: 444  (3389 is default for RDP but is blocked in fleming, 444 will work at fleming)
      - Create
 ![imagen](../a00templates/img/img16.png)
   
@@ -89,6 +89,8 @@ Now an image will be taken and deployed into this as a virtual machine.
 ![imagen](../a00templates/img/img31.png)
 - Name firewall rule, set the port and click create
 ![imagen](../a00templates/img/img32.png)
+4.2 Setting a Windows Firewall Rule to allow ArcGIS Server Management Ports
+- *This must be completed on the server itself, not on your local computer*
 
 ## Step02_Log in the machine
 In the row of the list of VM intances, there is a column called Connect/RDP ▼ > set windows password  
@@ -104,6 +106,13 @@ after copy the IP open **Remote Desktop Connection** or the same **mstsc** (Micr
 - Click connect
 ![imagen](../a00templates/img/img19.png) 
 - it goes to prompt the user and password (it will popup a message about invalid certificate: YES)
+
+### Step02_4.2 Setting a Windows Firewall Rule to allow ArcGIS Server Management Ports
+before leave the virtual machine finish this step
+
+
+
+
 **Sign out of the virtual machine**
 
 ## Step03_Test the machine is running on the web
