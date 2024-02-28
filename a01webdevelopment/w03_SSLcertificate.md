@@ -2,21 +2,23 @@
 |---------------------------------------------------|  
 
 **Task:** Obtain SSL certificate  
-**Software/Application:** https://www.duckdns.org/  
+**Software/Application:** https://www.win-acme.com/  
 **Goal:** Get a certificate for the DNS    
 **Status:** Ended  
   
 **Time run successfully** 15 min  
-**Time expended**         40 min    
-**Link to final product** [NA](http://www.com)  
+**Time expended**         100 min    
+**Link to final product** [https://geom99web.duckdns.org/](https://geom99web.duckdns.org)  
 **No attempt** 01 de 01  
   
   
-| **Date**              | **Step No**              | **Key/Tip**                             | **Description/Notes** | **Documentation**                           |
-|-----------------------|--------------------------|-----------------------------------------|-----------------------|---------------------------------------------|
-| 2024-02-27 20:23:00   | Step01_Create an account | can use a google account                | notes                 | https://www.duckdns.org/                    |
-| 2024-02-25 19:34:00   | Step02_Create a domain   | Domain can be update with a new IP      | notes                 | https://www.youtube.com/watch?v=8peq7B8SEYk |  
-| 2024-02-27 20:00:00   | Ended |
+| **Date**              | **Step No**                     | **Key/Tip**                             | **Description/Notes** | **Documentation**                           |
+|-----------------------|---------------------------------|-----------------------------------------|-----------------------|---------------------------------------------|
+| 2024-02-27 20:23:00   | Step01_Set the workspace        | the external IP should be updated       | notes                 |                     |
+| 2024-02-25 21:24:00   | Step02_Define domain host       | ISS                                     | notes                 | https://www.youtube.com/watch?v=eTNtJNn5j74 |  
+| 2024-02-27 20:23:00   | Step03_Install ACME for Windows | run as administrator                    | notes                 | https://www.youtube.com/watch?v=eTNtJNn5j74 |
+| 2024-02-27 21:32:00   | Step04_Request certificate      | follow the code questions               | notes                 | https://www.youtube.com/watch?v=eTNtJNn5j74 |
+| 2024-02-27 22:03:00   | Ended |
     
 **Results:**                    
 A certificate was obtain
@@ -44,9 +46,9 @@ Use the VM of GCP in ArcGIS Server
 ![image](../a00templates/img/img22.png)
 9. unzip
 8. run as administrator wacs.exe
-![image](../a00templates/img/img23.png)
+![image](../a00templates/img/img26.png)
 10. more> run anyway
-![image](../a00templates/img/img24.png)
+![image](../a00templates/img/img27.png)
 # Step04_Request certificate
 11. Follow the code to set: (options with a * means is a default, you can type the option or enter)
     - Create certificate
@@ -57,7 +59,7 @@ Use the VM of GCP in ArcGIS Server
     - agree the terms
     - Provide email
     - When the code start again, the window can be closet
-![image](../a00templates/img/img25.png)
+![image](../a00templates/img/img28.png)
 12. Then will use the web server to validate is working, such as http and https enabled, and will assign a SSL Certificate
     The certificate can be viewed in the browser. It has an expiration date. 
-![image](../a00templates/img/img26.png)
+![image](../a00templates/img/img29.png)
