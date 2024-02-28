@@ -108,5 +108,5 @@ In VM intances in the console of google cloud, at the end of the row of the VM i
 In the remote desktop > Start Menu > Power > Shutdown
 ![stop machine2](../a00templates/img/img4.png)
 
-Note: Everytime the machine is stopped, and turned on again, the IP will change to get around this read: 
+**Note:** Everytime the machine is stopped, and turned on again, the IP will change to get around this read: 
 [Create DNS](https://github.com/geolaurajaimes/gislaura/blob/main/a01webdevelopment/w02_duckDNS.md)
