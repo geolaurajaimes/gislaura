@@ -6,17 +6,17 @@
 **Goal:** Create a DNS to avoid changing the IP everytime the VM stop in Google Cloud  
 **Status:** Ended  
   
-**Time run successfully**  h  
-**Time expended**         h  
+**Time run successfully** 10 min  
+**Time expended**         79.9 min    
 **Link to final product** [NA](http://www.com)  
 **No attempt** 01 de 01  
   
   
 | **Date**              | **Step No**              | **Key/Tip**                             | **Description/Notes** | **Documentation**                           |
 |-----------------------|--------------------------|-----------------------------------------|-----------------------|---------------------------------------------|
-| 2024-02-27 19:25:00   | Step01_Create an account | can use a google account                | notes                 | https://www.duckdns.org/                    |
-| 2024-02-25 20:34:00   | Step02_Create a domain   | Domain can be update with a new IP      | notes                 | https://www.youtube.com/watch?v=8peq7B8SEYk |  
-
+| 2024-02-27 18:40:00   | Step01_Create an account | can use a google account                | notes                 | https://www.duckdns.org/                    |
+| 2024-02-25 19:34:00   | Step02_Create a domain   | Domain can be update with a new IP      | notes                 | https://www.youtube.com/watch?v=8peq7B8SEYk |  
+| 2024-02-27 20:00:00   | Ended |
     
 **Results:**                    
  A domain was created
