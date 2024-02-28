@@ -81,8 +81,15 @@ Now an image will be taken and deployed into this as a virtual machine.
      - Create
 ![imagen](../a00templates/img/img16.png)
   
-When come back to VM instances, it will be running
-  
+4. Setting a GCP Firewall Rule to allow ArcGIS Server Management Ports
+4.1 ArcGIS Server management has two ports: 6443 (hhtps) and 6080 (http) 
+![imagen](../a00templates/img/img30.png)
+
+- click Create Firewall Rule
+![imagen](../a00templates/img/img31.png)
+- Name firewall rule, set the port and click create
+![imagen](../a00templates/img/img32.png)
+
 ## Step02_Log in the machine
 In the row of the list of VM intances, there is a column called Connect/RDP ▼ > set windows password  
 - set the username: Student
