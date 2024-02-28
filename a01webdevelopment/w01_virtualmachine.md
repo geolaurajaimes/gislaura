@@ -88,17 +88,17 @@ Copy and paste the **External IP** from the list of VM intances on the browser, 
 ![server running](../a00templates/img/img4.png)
 
 - https://**IP**/arcgis/rest/services check if the Rest endpoint is running
-- https://**IP**/arcgis/manager
-       (+) Username: siteadmin
-       (+) Password:
+- https://**IP**/arcgis/manager  
+       (+) Username: siteadmin  
+       (+) Password:  
 
 ## Step04_ArcGIS Pro set Server Connection
 Insert > Connection> Add New server conection -> This have to be done everytime publish is wanted, because the External IP of the virual machine intance change everytime the machine is stopped. 
-- In Add ArcGIS Server Connection
-       - Server URL: https://**IP**/arcgis/
-       - Username: siteadmin
-       - Password:
-       - Save the log in credential is not neccesary
+- In Add ArcGIS Server Connection  
+       - Server URL: https://**IP**/arcgis/  
+       - Username: siteadmin  
+       - Password:  
+       - Save the log in credential is not neccesary  
 
 ## Step0x_Stop the Virtual Machine
 ### First Way
