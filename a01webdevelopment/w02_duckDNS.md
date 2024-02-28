@@ -1,10 +1,10 @@
 | **Summary**                                       |
-|---------------------------------------------------|
+|---------------------------------------------------|  
 
-**Task:** Create a Temporary DNS free
-**Software/Application:** https://www.duckdns.org/
-**Goal:** Create a DNS to avoid changing the IP everytime the VM stop in Google Cloud
-**Status:** Ended
+**Task:** Create a Temporary DNS free  
+**Software/Application:** https://www.duckdns.org/  
+**Goal:** Create a DNS to avoid changing the IP everytime the VM stop in Google Cloud  
+**Status:** Ended  
   
 **Time run successfully**  h  
 **Time expended**         h  
@@ -15,7 +15,7 @@
 | **Date**              | **Step No**              | **Key/Tip**                             | **Description/Notes** | **Documentation**                           |
 |-----------------------|--------------------------|-----------------------------------------|-----------------------|---------------------------------------------|
 | 2024-02-27 19:25:00   | Step01_Create an account | can use a google account                | notes                 | https://www.duckdns.org/                    |
-| 2024-02-25 18:00:00   | Step02_Create a domain   | Domain can be update with a new IP      | notes                 | https://www.youtube.com/watch?v=8peq7B8SEYk |  
+| 2024-02-25 20:34:00   | Step02_Create a domain   | Domain can be update with a new IP      | notes                 | https://www.youtube.com/watch?v=8peq7B8SEYk |  
 
     
 **Results:**                    
