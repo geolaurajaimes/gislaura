@@ -19,7 +19,7 @@
 
     
 **Results:**                    
- An a IP was created
+ A domain was created
 
 **Next steps:**
 Obtain SSL certificate
@@ -28,16 +28,16 @@ Obtain SSL certificate
 |---------------------------------------------------|
 
 # Step01_Create an account 
-Enter in in https://www.duckdns.org/
-Create and account or log in by creating an account or using the account options available
-![duck web site](../a00templates/img/img10.png)
+Enter in in https://www.duckdns.org/  
+Create and account or log in by creating an account or using the account options available  
+![duck web site](../a00templates/img/img10.png)  
 
-# Step02_Create a domain
--click en reCaptcha
-![duck web site](../a00templates/img/img11.png)
+# Step02_Create a domain  
+-click en reCaptcha  
+![duck web site](../a00templates/img/img11.png)  
 
--Create a domain
--Copy the External IP from google cloud console and paste it in current ip and click update domain
-![duck web site](../a00templates/img/img12.png)
+-Create a domain  
+-Copy the External IP from google cloud console and paste it in current ip and click update domain  
+![duck web site](../a00templates/img/img12.png)  
 
 The new domain will be: **something.duckdns.org** every time the VM stop in Google Cloud, and restart, and recreate the external IP, the IP linked to this new domain can be updated in duckdns but it will no need to be update in server or in other places where the use of the VM is required. 
