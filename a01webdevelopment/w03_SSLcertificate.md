@@ -56,6 +56,7 @@ Use the VM of GCP in ArcGIS Server
     - Open the terms of servers (Open in default application) - it is not neccessary
     - agree the terms
     - Provide email
+    - When the code start again, the window can be closet
 ![image](../a00templates/img/img25.png)
 12. Then will use the web server to validate is working, such as http and https enabled, and will assign a SSL Certificate
     The certificate can be viewed in the browser. It has an expiration date. 
