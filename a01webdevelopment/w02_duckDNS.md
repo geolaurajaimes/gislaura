@@ -24,6 +24,9 @@
 **Next steps:**
 Obtain SSL certificate
 
-# Create an account in https://www.duckdns.org/
-Can log in by creating an account or using the account options available
+# Create an account 
+Enter in in https://www.duckdns.org/
+Create and account or log in by creating an account or using the account options available
 ![duck web site](../a00templates/img/img10.png)
+
+# this website does not work
