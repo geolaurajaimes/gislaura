@@ -27,6 +27,12 @@ nothing
 |-----------------------------------------------------------|
 
 # Step01_Create a map
+1. add a new item - URL
+![imagen](../a00templates/img/img66.png)
+| **myCanada**              | **myCanada2**                                   |  
+|-----------------------|-----------------------------------------------|  
+| ![imagen](../a00templates/img/img64.png)  | ![imagen](../a00templates/img/img65.png) |
+3. 
 https://geolaurajaimes.github.io/geom99/myCanadaLyr.html  
 https://geolaurajaimes.github.io/geom99/myCanadaMapWeb.html  
 
