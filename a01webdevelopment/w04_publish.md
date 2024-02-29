@@ -79,3 +79,68 @@ now data will be available
 | ![img](../a00templates/img/img57.png)    |  
 | ![img](../a00templates/img/img60.png)    |  
 | ![img](../a00templates/img/img61.png)    |  
+
+
+--------------------------------------------------------------------------------------------------------------
+# URLs myCanada
+## REST:
+### Color copied data
+https://geom99web.duckdns.org/arcgis/rest/services/MyCanada/MyCanada/MapServer
+https://geom99web.duckdns.org/arcgis/rest/services/MyCanada/MyCanada/MapServer/0
+### grayscale referenced data
+https://geom99web.duckdns.org/arcgis/rest/services/MyCanada/MyCanada2/MapServer
+https://geom99web.duckdns.org/arcgis/rest/services/MyCanada/MyCanada2/MapServer/0
+
+## arcgis online
+Service definition
+ID: 6a97371a74d64dfe8fb803244fa06672
+
+### color:
+https://fleming.maps.arcgis.com/home/item.html?id=caacfbc3d89246a4bf121a39eac81068
+ID: caacfbc3d89246a4bf121a39eac81068
+https://fleming.maps.arcgis.com/home/item.html?id=bd76e22bf07c43e0b96bbaafbd839c50
+
+### gray
+ID: 4de87c42ed464337ad74f3cd13f0cb64
+https://fleming.maps.arcgis.com/home/item.html?id=4de87c42ed464337ad74f3cd13f0cb64
+rest item: https://geom99web.duckdns.org/arcgis/rest/services/MyCanada/MyCanada2/MapServer/0
+
+## Create a map with the item id
+item id del **mapa**
+Service ItemId: caacfbc3d89246a4bf121a39eac81068
+https://services1.arcgis.com/pMeXRvgWClLJZr3s/ArcGIS/rest/services/MyCanada/FeatureServer
+https://services1.arcgis.com/pMeXRvgWClLJZr3s/ArcGIS/rest/services/MyCanada/FeatureServer/0
+
+*************************************************
+# URLs Canada
+
+## CanadaMap publish with data
+Canada map created in ArcGIS Pro, shared to geom99web.duckdns.org server as administrator.
+Copy all data
+it will be shared in arcgis pro
+https://geom99web.duckdns.org/arcgis/rest/services/CanadaMap/CanadaMap/MapServer
+https://geom99web.duckdns.org/arcgis/rest/services/CanadaMap/CanadaMap/MapServer/0
+
+## CanadaMap2 created in ArcGIS Pro, shared to geom99web.duckdns.org server as administrator.
+reference registered data
+it will be shared in arcgis pro
+https://geom99web.duckdns.org/arcgis/rest/services/CanadaMap/CanadaMap/MapServer
+https://geom99web.duckdns.org/arcgis/rest/services/CanadaMap/CanadaMap/MapServer/0
+
+## CanadaMap item id on AGOL
+### CanadaMap
+https://fleming.maps.arcgis.com/home/item.html?id=86938745e07346edaafbd47c72358ea7
+https://geom99web.duckdns.org/arcgis/rest/services/CanadaMap/CanadaMap/MapServer
+
+### CanadaMap2 
+https://fleming.maps.arcgis.com/home/item.html?id=7ccc7762a5894e2ca3852f4eed4cef3b
+https://geom99web.duckdns.org/arcgis/rest/services/CanadaMap/CanadaMap/MapServer
+
+### layer CanadaMap
+https://fleming.maps.arcgis.com/home/item.html?id=372b0b4059f6451b98747eb5c1b7b765
+https://geom99web.duckdns.org/arcgis/rest/services/CanadaMap/CanadaMap/MapServer/0
+
+### layer CanadaMap2
+https://fleming.maps.arcgis.com/home/item.html?id=df99712d10f34fa9974b6bc96601871f
+https://geom99web.duckdns.org/arcgis/rest/services/CanadaMap/CanadaMap/MapServer/0
+
