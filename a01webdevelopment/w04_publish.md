@@ -64,7 +64,7 @@ for publish the data can be reference the vm data or can be copy
 | Descripción:    | Color                                | Grayscale                               |
 |                 | ![img](../a00templates/img/img51.png)| ![img](../a00templates/img/img52.png)   |
 | Data:           | Copy All Data                        | Reference Registered Data               |
-|                 | Data will be copied to (no se)       | Means the data in the server has to be specified |
+|                 | Data will be copied to this path ⬇   | Means the data in the server has to be specified |
 |                 |                                      | reference the data in the validation 24011 fixing |
 |                 |                                      | ![img](../a00templates/img/img53.png)   |  
 |                 |                                      | same or different path will be depend or where the data in the VM was storege |  
