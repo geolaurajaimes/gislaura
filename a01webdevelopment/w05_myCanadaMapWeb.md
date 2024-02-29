@@ -8,7 +8,7 @@
   
 **Time run successfully**  36 min  
 **Time expended**          50 min  
-**Link to final product** [see my map](https://geolaurajaimes.github.io/geom99/myCanadaLyr.html)  
+**Link to final product** [see my map](https://geolaurajaimes.github.io/geom99/myCanadaMapWeb.html)  
 **No attempt** 01 de 01  
   
   
