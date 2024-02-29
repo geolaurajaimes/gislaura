@@ -52,8 +52,24 @@ Include the map in a web application.
 10. the publication will be done from the pc where ArcGIS Pro is install and the project is ready to be published  
     the VM does not have ArcGIS Pro.
     Conect the server
-    ![imagen](../a00templates/img/img47.png)
     ![imagen](../a00templates/img/img48.png)
     ![imagen](../a00templates/img/img49.png)
     ![imagen](../a00templates/img/img50.png)
 12. publish
+    ![imagen](../a00templates/img/img47.png)
+for publish the data can be reference the vm data or can be copy  
+  
+| Map Service:    | myCanada                             | myCanada2                               |
+| --------------- | ------------------------------------ | --------------------------------------- |
+| Descripción:    | Color                                | Grayscale                               |
+|                 | ![img](../a00templates/img/img51.png)| ![img](../a00templates/img/img52.png)   |
+| Data:           | Copy All Data                        | Reference Registered Data               |
+|                 | Data will be copied to (no se)       | Means the data in the server has to be specified |
+|                 |                                      | reference the data in the validation 24011 fixing |
+|                 |                                      | ![img](../a00templates/img/img53.png)   |  
+|                 |                                      | same or different path will be depend or where the data in the VM was storege |  
+|                 |                                      | ![img](../a00templates/img/img54.png)   |   
+|                 | ![img](../a00templates/img/img55.png)| ![img](../a00templates/img/img56.png)   |
+
+now data will be available  
+![img](../a00templates/img/img57.png)
