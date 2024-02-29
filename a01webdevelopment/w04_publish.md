@@ -57,7 +57,7 @@ Include the map in a web application.
     ![imagen](../a00templates/img/img50.png)
 12. publish
     ![imagen](../a00templates/img/img47.png)
-for publish the data can be reference the vm data or can be copy  
+for publish the data can be reference to the vm data path or can be copy  
   
 | Map Service:    | myCanada                             | myCanada2                               |
 | --------------- | ------------------------------------ | --------------------------------------- |
