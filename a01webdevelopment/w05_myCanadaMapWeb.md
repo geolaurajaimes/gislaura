@@ -29,3 +29,7 @@ nothing
 # Step01_Create a map
 https://geolaurajaimes.github.io/geom99/myCanadaLyr.html  
 https://geolaurajaimes.github.io/geom99/myCanadaMapWeb.html  
+
+| **Map**              | **Layer**                                   |  
+|-----------------------|-----------------------------------------------|  
+| ![imagen](../a00templates/img/img62.png)  | ![imagen](../a00templates/img/img63.png) |
