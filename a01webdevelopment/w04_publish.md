@@ -70,6 +70,12 @@ for publish the data can be reference to the vm data path or can be copy
 |                 |                                      | same or different path will be depend or where the data in the VM was storege |  
 |                 |                                      | ![img](../a00templates/img/img54.png)   |   
 |                 | ![img](../a00templates/img/img55.png)| ![img](../a00templates/img/img56.png)   |
+|                 | ![img](../a00templates/img/img58.png)| ![img](../a00templates/img/img59.png)   |
 
 now data will be available  
-![img](../a00templates/img/img57.png)
+
+| REST ENDPOINT:  | 
+| --------------- | 
+| ![img](../a00templates/img/img57.png)    |  
+| ![img](../a00templates/img/img60.png)    |  
+| ![img](../a00templates/img/img61.png)    |  
