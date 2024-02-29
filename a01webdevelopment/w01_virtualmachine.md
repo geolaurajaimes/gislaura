@@ -107,13 +107,15 @@ after copy the IP open **Remote Desktop Connection** or the same **mstsc** (Micr
 ![imagen](../a00templates/img/img19.png) 
 - it goes to prompt the user and password (it will popup a message about invalid certificate: YES)
 
-### Step02_4.2 Setting a Windows Firewall Rule to allow ArcGIS Server Management Ports
+### from Step02_4.2 Setting a Windows Firewall Rule to allow ArcGIS Server Management Ports
 before leave the virtual machine finish this step
-
-
-
-
-**Sign out of the virtual machine**
+in the windows application search engine  
+![imagen](../a00templates/img/img33.png) 
+Select a new rule and set TCP and enter the two ports we are permitting through for ArcGIS Server administration,
+6443 and optionally 6080.
+![imagen](../a00templates/img/img34.png) 
+![imagen](../a00templates/img/img35.png) 
+![imagen](../a00templates/img/img36.png) 
 
 ## Step03_Test the machine is running on the web
 Copy and paste the **External IP** from the list of VM intances on the browser, if you see this, that means the web server is replying now. Also https://**IP** can be tried, it will say is not secure because the certificate, but it will continue.
@@ -133,6 +135,7 @@ Insert > Connection> Add New server conection -> This have to be done everytime 
        - Password:  
        - Save the log in credential is not neccesary  
 
+**Sign out of the virtual machine**
 ## Step05_Stop the Virtual Machine
 ### First Way
 In VM intances in the console of google cloud, at the end of the row of the VM intance > ┇ > stop
