@@ -49,9 +49,9 @@ Include the map in a web application.
 ![imagen](../a00templates/img/img40.png)
 9. make a copy of the project data following the same path make it easier but it can be done in a different path
 
-10. the publication will be done from the pc where ArcGIS Pro is install and the project is ready to be published  
-    the VM does not have ArcGIS Pro.
-    Conect the server
+10. the publication will be done from the pc where ArcGIS Pro is install and the project is ready to be published    
+    the VM does not have ArcGIS Pro.  
+    Conect the server  
     ![imagen](../a00templates/img/img48.png)
     ![imagen](../a00templates/img/img49.png)
     ![imagen](../a00templates/img/img50.png)
