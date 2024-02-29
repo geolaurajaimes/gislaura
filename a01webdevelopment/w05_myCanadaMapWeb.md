@@ -6,16 +6,16 @@
 **Goal:** ArcGIS Server on GCP
 **Status:** Ended
   
-**Time run successfully**  36 min  
-**Time expended**          50 min  
+**Time run successfully**  120 min  
+**Time expended**          163 min  
 **Link to final product** [see my map](https://geolaurajaimes.github.io/geom99/myCanadaMapWeb.html)  
 **No attempt** 01 de 01  
   
   
 | **Date**              | **Step No**                                   | **Key/Tip** | **Description/Notes** | **Documentation** |
 |-----------------------|-----------------------------------------------|-------------|-----------------------|-------------------|
-| 2024-02-29 15:54:00   | Step01_Create map                             | notes       | notes below           |           |
-| 2024-02-29 17:20:00   | End                                           |
+| 2024-02-29 15:04:00   | Step01_Create map                             | notes       | notes below           |           |
+| 2024-02-29 17:47:00   | End                                           |
 
 **Results:**  
 Result
