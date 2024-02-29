@@ -27,7 +27,7 @@ Include the map in a web application.
 |-----------------------------------------------------------|
 
 # Step01_Publish
-*Assuming DNS for the ip of the VM and certificate was made*
+*Assuming DNS for the ip of the VM and certificate was made*  
 *Assuming the map project in ArcGIS Pro is done and ready to be published*
 1. Start the VM  
 ![imagen](../a00templates/img/img37.png)
