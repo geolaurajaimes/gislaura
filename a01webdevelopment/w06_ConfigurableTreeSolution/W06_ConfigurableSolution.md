@@ -31,7 +31,7 @@
 | **Date**              | **Step No**                                   | **Key/Tip** | **Description/Notes** | **Documentation** |
 |-----------------------|-----------------------------------------------|-------------|-----------------------|-------------------|
 | 2024-03-07 17:35:00   | Experience Builder                            | notes       | notes below           | [doc/link](https://experience.arcgis.com/experience/dfdd326f157844d1837f0c183778019b)  |
-| 2024-03-07 17:25:00   | End                                           |
+| 2024-03-07 18:20:00   | Dashboard                                     |             | notes below           | [doc/link](https://experience.arcgis.com/experience/dfdd326f157844d1837f0c183778019b)  |
 
 **Results:**  
 A web app was published
@@ -78,7 +78,7 @@ or developers edition of Experience Builder where you can install the configurat
 
 
 # Dashboard
-
+ArcGIS Dashboards are interactive visualizations presenting location-based data, facilitating data management and communication through graphs and maps.  
 
 
 
