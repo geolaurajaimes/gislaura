@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Aplicación ArcGIS Fake Tree Experience Builder</title>
+</head>
+<body>
+    <!-- Contenedor para la aplicación ArcGIS -->
+    <div id="arcgis-app" style="width: 100%; height: 600px;"></div>
+
+    <!-- Script para cargar la aplicación ArcGIS -->
+    <script src="https://js.arcgis.com/4.22/"></script>
+    <script>
+        // Configuración de la aplicación ArcGIS
+        require([
+            "esri/views/MapView",
+            "esri/WebMap",
+            "dojo/domReady!"
+        ], function(MapView, WebMap) {
+            // Crear una nueva vista de mapa
+            var webmap = new WebMap({
+                portalItem: {
+                    id: "7187c511970c40959f92522d7a5fd2d6" // ID del elemento del mapa en ArcGIS Online
+                }
+            });
+
+            var view = new MapView({
+                container: "arcgis-app", // ID del contenedor HTML
+                map: webmap
+            });
+        });
+    </script>
+</body>
+</html>
