@@ -32,7 +32,8 @@
 |-----------------------|-----------------------------------------------|-------------|-----------------------|-------------------|
 | 2024-03-07 17:35:00   | Experience Builder                            | notes       | notes below           | [doc/link](https://experience.arcgis.com/experience/dfdd326f157844d1837f0c183778019b)  |
 | 2024-03-07 18:20:00   | Dashboard                                     |             | notes below           | [doc/link](https://fleming.maps.arcgis.com/apps/dashboards/88b233fbbfd34d4499a9628e43f2b1dd)  |
-
+| 2024-03-07 20:25:00   | StoryMap                                      |             | notes below           | [doc/link](https://storymaps.arcgis.com/stories/3cc73ac95eec43cfa4bc9c7bc70f3415)  |
+  
 **Results:**  
 A web app was published
 
@@ -82,8 +83,6 @@ or developers edition of Experience Builder where you can install the configurat
 # Dashboard
 ArcGIS Dashboards are interactive visualizations presenting location-based data, facilitating data management and communication through graphs and maps.  
 
-# Step by Step: Creating a Dashboard
-
 1. Open the dashboard application.
 ![Step 1](../a00templates/img/img82.png)  
 2. Click on "Create Dashboard".
@@ -101,3 +100,18 @@ ArcGIS Dashboards are interactive visualizations presenting location-based data,
 9. When you're ready, you can preview it.
 ![Step 8](../a00templates/img/img89.png)
 ---
+
+# Story Map
+# Steps to Create a Story Map
+
+1. Open the StoryMaps application. ![Step 1](../images/img91.jpg)
+2. Click on "New Story" and choose to start from scratch or with a template. ![Step 2](../images/img92.jpg)
+3. Customize the title, description, and upload an image or video for the cover. ![Step 3](../images/img93.jpg)
+4. Choose a layout and theme for the cover image. ![Step 4](../images/img94.jpg)
+5. Insert various elements such as texts, hyperlink buttons, etc., to convey your message. ![Step 5](../images/img95.jpg)
+6. Add media like maps, videos, images, etc. ![Step 6](../images/img96.jpg)
+7. Include more immersive elements. ![Step 7](../images/img97.jpg)
+8. Select from multiple layout options. ![Step 8](../images/img98.jpg)
+9. Configure and include all necessary information. ![Step 9](../images/img99.jpg)
+10. Edit until you achieve the desired result. ![Step 10](../images/img100.jpg)
+11. Finally, publish your story. ![Step 11](../images/img101.jpg)
