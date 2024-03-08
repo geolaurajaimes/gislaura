@@ -31,7 +31,7 @@
 | **Date**              | **Step No**                                   | **Key/Tip** | **Description/Notes** | **Documentation** |
 |-----------------------|-----------------------------------------------|-------------|-----------------------|-------------------|
 | 2024-03-07 17:35:00   | Experience Builder                            | notes       | notes below           | [doc/link](https://experience.arcgis.com/experience/dfdd326f157844d1837f0c183778019b)  |
-| 2024-03-07 18:20:00   | Dashboard                                     |             | notes below           | [doc/link](https://experience.arcgis.com/experience/dfdd326f157844d1837f0c183778019b)  |
+| 2024-03-07 18:20:00   | Dashboard                                     |             | notes below           | [doc/link](https://fleming.maps.arcgis.com/apps/dashboards/88b233fbbfd34d4499a9628e43f2b1dd)  |
 
 **Results:**  
 A web app was published
@@ -74,17 +74,30 @@ or developers edition of Experience Builder where you can install the configurat
 ![Step 13](../a00templates/img/img79.png)
 14. Switch to mobile design mode and customize the design as desired, including colors, fonts, widgets, etc.
 ![Step 14](../a00templates/img/img80.png)
+15. Publish
+![Step 1](../a00templates/img/img90.png)
 ---
 
 
 # Dashboard
 ArcGIS Dashboards are interactive visualizations presenting location-based data, facilitating data management and communication through graphs and maps.  
 
+# Step by Step: Creating a Dashboard
 
-
-
-
-
-
-
-
+1. Open the dashboard application.
+![Step 1](../a00templates/img/img82.png)  
+2. Click on "Create Dashboard".
+![Step 2](../a00templates/img/img83.png)
+3. Assign a title, tags, summary, and the folder where you want to save it in ArcGIS Online.
+![Step 3](../a00templates/img/img84.png)
+4. In "Add Element", choose any of the available options.
+![Step 4](../a00templates/img/img85.png)
+6. You can insert a map.
+![Step 5](../a00templates/img/img86.png)
+7. Tables and charts.
+![Step 6](../a00templates/img/img87.png)
+8. Each time you insert, the application will highlight different areas for you to choose where to insert your new element.
+![Step 7](../a00templates/img/img88.png)
+9. When you're ready, you can preview it.
+![Step 8](../a00templates/img/img89.png)
+---
