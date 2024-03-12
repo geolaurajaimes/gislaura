@@ -1,4 +1,4 @@
-![image](https://github.com/geolaurajaimes/gislaura/assets/146447166/c82453f3-6e64-4cba-99f8-5e4993b718a3)| **Summary Technical Log**                                 |
+| **Summary Technical Log**                                 |
 |-----------------------------------------------------------|
 
 **Task:** Week 9 Checklist - Configurable Solutions Menu     
@@ -28,18 +28,23 @@
 **No attempt** 01 de 01  
   
   
-| **Date**              | **Step No**                                   | **Key/Tip** | **Description/Notes** | **Documentation** |
-|-----------------------|-----------------------------------------------|-------------|-----------------------|-------------------|
-| 2024-03-07 17:35:00   | Experience Builder                            | notes       | notes below           | [doc/link](https://experience.arcgis.com/experience/dfdd326f157844d1837f0c183778019b)  |
-| 2024-03-07 18:20:00   | Dashboard                                     |             | notes below           | [doc/link](https://fleming.maps.arcgis.com/apps/dashboards/88b233fbbfd34d4499a9628e43f2b1dd)  |
-| 2024-03-07 20:25:00   | StoryMap                                      |             | notes below           | [doc/link](https://storymaps.arcgis.com/stories/3cc73ac95eec43cfa4bc9c7bc70f3415)  |
-| 2024-03-07 21:55:00   | End                                      | 
-| 2024-03-07 20:25:00   | StoryMap                                      |             | notes below           | [doc/link](https://storymaps.arcgis.com/stories/3cc73ac95eec43cfa4bc9c7bc70f3415)  |
-| 2024-03-09 18:05:00   | ArcGIS Hub                                    |             | notes below           | [doc/link](https://storymaps.arcgis.com/stories/3cc73ac95eec43cfa4bc9c7bc70f3415)  |
-| 2024-03-10 08:10:00   | ArcGIS Field Maps                             |             | notes below           | [doc/link](https://fleming.maps.arcgis.com/home/item.html?id=232cb7cccd6241abb9ca6d08c7cb9d04)  |
-
-
-
+| **Date**              | **Step No**              | **Documentation** |
+|-----------------------|--------------------------|-------------------|
+| 2024-03-07 17:35:00   | Experience Builder       | [doc/link](https://experience.arcgis.com/experience/dfdd326f157844d1837f0c183778019b)  |
+| 2024-03-07 18:20:00   | Dashboard                | [doc/link](https://fleming.maps.arcgis.com/apps/dashboards/88b233fbbfd34d4499a9628e43f2b1dd)  |
+| 2024-03-07 20:25:00   | StoryMap                 | [doc/link](https://storymaps.arcgis.com/stories/3cc73ac95eec43cfa4bc9c7bc70f3415)  |
+| 2024-03-07 20:25:00   | StoryMap                 | [doc/link](https://storymaps.arcgis.com/stories/3cc73ac95eec43cfa4bc9c7bc70f3415)  |
+| 2024-03-09 18:05:00   | ArcGIS Hub               | [doc/link](https://storymaps.arcgis.com/stories/3cc73ac95eec43cfa4bc9c7bc70f3415)  |
+| 2024-03-10 08:10:00   | ArcGIS Field Maps        | [doc/link](https://fleming.maps.arcgis.com/home/item.html?id=232cb7cccd6241abb9ca6d08c7cb9d04)  |
+| 2024-03-10 10:35:00   | Leaflet JavaScript API   | [doc/link]()  |
+| 2024-03-10 13:11:00   | Geoserver                | [doc/link]()  |
+| 2024-03-10 15:01:00   | OpenStreetMap            | [doc/link]()  |
+| 2024-03-10 17:00:00   | qField                   | [doc/link]()  |
+| 2024-03-10 19:32:00   | OpenLayers               | [doc/link]()  |
+| 0000-00-00 00:00:00   | Mapbox (pay)             | [doc/link]()  |
+| 0000-00-00 00:00:00   | Carto y CartoDB (pay)    | [doc/link]()  |
+| 2024-03-10 21:35:00   | GIS Cloud (pay)          | [doc/link]()  |
+| 2024-03-07 23:55:00   | End                      | 
 
 **Results:**  
 
@@ -155,6 +160,9 @@ I clicked on the 'geofence' tab and, later, on the 'add geofence' button
 ![Step](../a00templates/img/img103.png)
 10. I set a location alert every time the surveyor is out of the municipality. The results of this Field map can be seen on the web map called ‘New Fake Tree map
 ![Step](../a00templates/img/img104.png)
+
+# Leaflet JavaScript API
+
 
 
 
