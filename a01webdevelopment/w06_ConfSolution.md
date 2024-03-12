@@ -33,18 +33,22 @@
 | 2024-03-07 17:35:00   | Experience Builder       | [doc/link](https://experience.arcgis.com/experience/dfdd326f157844d1837f0c183778019b)  |
 | 2024-03-07 18:20:00   | Dashboard                | [doc/link](https://fleming.maps.arcgis.com/apps/dashboards/88b233fbbfd34d4499a9628e43f2b1dd)  |
 | 2024-03-07 20:25:00   | StoryMap                 | [doc/link](https://storymaps.arcgis.com/stories/3cc73ac95eec43cfa4bc9c7bc70f3415)  |
-| 2024-03-07 20:25:00   | StoryMap                 | [doc/link](https://storymaps.arcgis.com/stories/3cc73ac95eec43cfa4bc9c7bc70f3415)  |
-| 2024-03-09 18:05:00   | ArcGIS Hub               | [doc/link](https://storymaps.arcgis.com/stories/3cc73ac95eec43cfa4bc9c7bc70f3415)  |
-| 2024-03-10 08:10:00   | ArcGIS Field Maps        | [doc/link](https://fleming.maps.arcgis.com/home/item.html?id=232cb7cccd6241abb9ca6d08c7cb9d04)  |
+| 2024-03-07 22:25:00   | Focus Config app x4      | Do not got it  |
+| 2024-03-07 23:55:00   | End                      |
+| 2024-03-09 18:05:00   | ArcGIS Hub               | Without privileges  |
+| 2024-03-09 19:30:00   | End                      |
+| 2024-03-10 08:10:00   | ArcGIS Field Maps        | [doc/link](https://fleming.maps.arcgis.com/apps/mapviewer/index.html?webmap=232cb7cccd6241abb9ca6d08c7cb9d04)  |
 | 2024-03-10 10:35:00   | Leaflet JavaScript API   | [doc/link]()  |
-| 2024-03-10 13:11:00   | Geoserver                | [doc/link]()  |
+| 2024-03-10 14:11:00   | Geoserver                | [doc/link]()  |
 | 2024-03-10 15:01:00   | OpenStreetMap            | [doc/link]()  |
-| 2024-03-10 17:00:00   | qField                   | [doc/link]()  |
-| 2024-03-10 19:32:00   | OpenLayers               | [doc/link]()  |
+| 2024-03-10 18:00:00   | qField                   | [doc/link]()  |
+| 2024-03-10 21:32:00   | OpenLayers               | [doc/link]()  |
+| 2024-03-07 23:55:00   | End                      | 
 | 0000-00-00 00:00:00   | Mapbox (pay)             | [doc/link]()  |
 | 0000-00-00 00:00:00   | Carto y CartoDB (pay)    | [doc/link]()  |
-| 2024-03-10 21:35:00   | GIS Cloud (pay)          | [doc/link]()  |
-| 2024-03-07 23:55:00   | End                      | 
+| 0000-00-00 00:00:00   | KoboToolbox              | [doc/link]()  |
+| 2024-03-11 08:35:00   | GIS Cloud (pay)          | [doc/link]()  |
+| 2024-03-11 10:55:00   | End                      | 
 
 **Results:**  
 
