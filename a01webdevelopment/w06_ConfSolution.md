@@ -24,7 +24,7 @@
   
 **Time run successfully** xx min  
 **Time expended**         50 min  
-**Link to final product** [](http://www.com)  
+**Link to final product** []()  
 **No attempt** 01 de 01  
   
   
@@ -38,16 +38,16 @@
 | 2024-03-09 18:05:00   | ArcGIS Hub               | Without privileges  |
 | 2024-03-09 19:30:00   | End                      |
 | 2024-03-10 08:10:00   | ArcGIS Field Maps        | [doc/link](https://fleming.maps.arcgis.com/apps/mapviewer/index.html?webmap=232cb7cccd6241abb9ca6d08c7cb9d04)  |
-| 2024-03-10 10:35:00   | Leaflet JavaScript API   | [doc/link]()  |
-| 2024-03-10 14:11:00   | Geoserver                | [doc/link]()  |
-| 2024-03-10 15:01:00   | OpenStreetMap            | [doc/link]()  |
-| 2024-03-10 18:00:00   | qField                   | [doc/link]()  |
-| 0000-00-00 00:00:00   | OpenLayers               | [doc/link]()  |
+| 2024-03-10 10:35:00   | Leaflet JavaScript API   ||
+| 2024-03-10 14:11:00   | Geoserver                |  |
+| 2024-03-10 15:01:00   | OpenStreetMap            |  |
+| 2024-03-10 18:00:00   | qField                   |  |
+| 0000-00-00 00:00:00   | OpenLayers               |  |
 | 2024-03-07 23:55:00   | End                      | 
-| 0000-00-00 00:00:00   | Mapbox (pay)             | [doc/link]()  |
-| 0000-00-00 00:00:00   | Carto y CartoDB (pay)    | [doc/link]()  |
-| 0000-00-00 00:00:00   | KoboToolbox              | [doc/link]()  |
-| 2024-03-11 08:35:00   | GIS Cloud (pay)          | [doc/link]()  |
+| 0000-00-00 00:00:00   | Mapbox (pay)             | |
+| 0000-00-00 00:00:00   | Carto y CartoDB (pay)    | |
+| 0000-00-00 00:00:00   | KoboToolbox              |  |
+| 2024-03-11 08:35:00   | GIS Cloud (pay)          |  |
 | 2024-03-11 10:55:00   | End                      | 
 
 **Results:**  
