@@ -1,4 +1,4 @@
-| **Summary Technical Log**                                 |
+![image](https://github.com/geolaurajaimes/gislaura/assets/146447166/c82453f3-6e64-4cba-99f8-5e4993b718a3)| **Summary Technical Log**                                 |
 |-----------------------------------------------------------|
 
 **Task:** Week 9 Checklist - Configurable Solutions Menu     
@@ -34,9 +34,15 @@
 | 2024-03-07 18:20:00   | Dashboard                                     |             | notes below           | [doc/link](https://fleming.maps.arcgis.com/apps/dashboards/88b233fbbfd34d4499a9628e43f2b1dd)  |
 | 2024-03-07 20:25:00   | StoryMap                                      |             | notes below           | [doc/link](https://storymaps.arcgis.com/stories/3cc73ac95eec43cfa4bc9c7bc70f3415)  |
 | 2024-03-07 21:55:00   | End                                      | 
+| 2024-03-07 20:25:00   | StoryMap                                      |             | notes below           | [doc/link](https://storymaps.arcgis.com/stories/3cc73ac95eec43cfa4bc9c7bc70f3415)  |
+| 2024-03-09 18:05:00   | ArcGIS Hub                                    |             | notes below           | [doc/link](https://storymaps.arcgis.com/stories/3cc73ac95eec43cfa4bc9c7bc70f3415)  |
+| 2024-03-10 08:10:00   | ArcGIS Field Maps                             |             | notes below           | [doc/link](https://fleming.maps.arcgis.com/home/item.html?id=232cb7cccd6241abb9ca6d08c7cb9d04)  |
+
+
+
 
 **Results:**  
-A web app was published
+
 
 **Next steps:**
 none.
@@ -103,7 +109,7 @@ ArcGIS Dashboards are interactive visualizations presenting location-based data,
 ---
 
 # Story Map
-# Steps to Create a Story Map
+
 
 1. Open the StoryMaps application. ![Step 8](../a00templates/img/img91.png)
 2. Click on "New Story" and choose to start from scratch or with a template. ![Step 8](../a00templates/img/img92.png)
@@ -116,3 +122,44 @@ ArcGIS Dashboards are interactive visualizations presenting location-based data,
 9. Configure and include all necessary information. ![Step 8](../a00templates/img/img99.png)
 10. Edit until you achieve the desired result. ![Step 8](../a00templates/img/img100.png)
 11. Finally, publish your story. ![Step 8](../a00templates/img/img101.png)
+
+# ArcGIS Hub
+1. From ArcGIS Online I clicked on the ‘Apps button’ and selected ‘Hub.’
+![Step](../a00templates/img/img01.png)
+2. I do not have this application available
+![Step](../a00templates/img/img02.png)
+3. the provided video is very easy to follow:
+Introducing ArcGIS Hub: https://www.youtube.com/watch?v=XMXryMx8zDo
+Customizing the Theme: https://www.youtube.com/watch?v=ERdhPw7kIaE
+Configuring your Hub: https://www.youtube.com/watch?v=L5r6x2DxsLA
+
+# Field Maps Designer
+1. From ArcGIS Online I clicked on the ‘Apps button’ and selected ‘Field Maps Designer.
+![Step](../a00templates/img/img03.png)
+2. Later, I selected a web map that I had previously created called ‘New Fake Tree map
+![Step](../a00templates/img/img04.png)
+3. Then, I clicked on the ‘Forms’ tab
+![Step](../a00templates/img/img05.png)
+4. I added a combo box called Condition, with a field length of 50
+![Step](../a00templates/img/img06.png)
+5. After that, I created a list of values, including four categories (Excellent, Good, Poor, and Very Poor)
+![Step](../a00templates/img/img07.png)
+6. Later, I saved changes at the top right button (next to properties)
+![Step](../a00templates/img/img08.png)
+7. After that, I added a switch field called Fruit Tree, which allows me to select whether the tree bears fruits
+![Step](../a00templates/img/img09.png)
+8. Later, I added a layer containing the location of other trees (Fake trees layer)
+![Step](../a00templates/img/img102.png)
+9. To ensure that the surveyor includes the trees within the municipality of Kawartha Lakes, I used the city's boundary as a geofence.
+I clicked on the 'geofence' tab and, later, on the 'add geofence' button
+![Step](../a00templates/img/img103.png)
+10. I set a location alert every time the surveyor is out of the municipality. The results of this Field map can be seen on the web map called ‘New Fake Tree map
+![Step](../a00templates/img/img104.png)
+
+
+
+# 
+
+
+
+
