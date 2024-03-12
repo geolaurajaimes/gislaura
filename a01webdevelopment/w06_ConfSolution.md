@@ -169,8 +169,70 @@ I clicked on the 'geofence' tab and, later, on the 'add geofence' button
 
 
 
+# Geoserver
 
-# 
+1. I downloaded the stable version. 
+![Step](../a00templates/img/img105.png)
+2. windows intaller
+![Step](../a00templates/img/img106.png)
+3. Before installing Geoserver, java JRE was downloaded and installed from https://adoptium.net/download/
+![Step](../a00templates/img/img107.png)
+4. I downloaded and installed tomcat
+![Step](../a00templates/img/img108.png)
+5. Later I checked the services was running
+![Step](../a00templates/img/img109.png)
+6. I checked that geoserver was running
+![Step](../a00templates/img/img110.png)
+
+# Open Street Map 
+
+1. I opened the Open Street Map website and searched for the Kawartha Lakes area.
+![Step](../a00templates/img/img111.png)
+2. I clicked on export, downloaded a file called map.osm, and opened it in QGIS as a vector layer.
+![Step](../a00templates/img/img112.png)
+
+# QField 
+
+1. I downloaded QField for windows and registered on QField Cloud
+![Step](../a00templates/img/img113.png)
+2. I created a project on QField Cloud.
+![Step](../a00templates/img/img114.png)
+3. Later, I clicked on ‘Open a local file’ and selected the shapefile of the municipalities of Ontario.
+![Step](../a00templates/img/img115.png)
+4. After that, I switched to digitize mode.
+![Step](../a00templates/img/img116.png)
+5. In digitize mode, I created a new polygon
+![Step](../a00templates/img/img117.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
