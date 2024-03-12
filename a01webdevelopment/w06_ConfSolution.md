@@ -42,7 +42,7 @@
 | 2024-03-10 14:11:00   | Geoserver                | [doc/link]()  |
 | 2024-03-10 15:01:00   | OpenStreetMap            | [doc/link]()  |
 | 2024-03-10 18:00:00   | qField                   | [doc/link]()  |
-| 2024-03-10 21:32:00   | OpenLayers               | [doc/link]()  |
+| 0000-00-00 00:00:00   | OpenLayers               | [doc/link]()  |
 | 2024-03-07 23:55:00   | End                      | 
 | 0000-00-00 00:00:00   | Mapbox (pay)             | [doc/link]()  |
 | 0000-00-00 00:00:00   | Carto y CartoDB (pay)    | [doc/link]()  |
@@ -204,7 +204,7 @@ I clicked on the 'geofence' tab and, later, on the 'add geofence' button
 5. In digitize mode, I created a new polygon
 ![Step](../a00templates/img/img117.png)
 
-
+# 
 
 
 
