@@ -204,7 +204,18 @@ I clicked on the 'geofence' tab and, later, on the 'add geofence' button
 5. In digitize mode, I created a new polygon
 ![Step](../a00templates/img/img117.png)
 
-# 
+# QGIS Cloud
+
+1. First, I had to sign up to QGIS Cloud
+![Step](../a00templates/img/img118.png)
+2. I added the QGIS Cloud plugin from QGIS Desktop. I clicked on install plugin.
+![Step](../a00templates/img/img119.png)
+3. Later, I added a basemap
+![Step](../a00templates/img/img120.png)
+4. Then I went to the account tab and created a database
+![Step](../a00templates/img/img121.png)
+5. Later, I clicked on the Upload Data tab. The map was uploaded successfully.
+![Step](../a00templates/img/img122.png)
 
 
 
