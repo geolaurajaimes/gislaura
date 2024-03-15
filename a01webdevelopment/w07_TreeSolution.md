@@ -4,15 +4,14 @@
 **Goal:** Get familiar with Tree Management Configurable Solution  
 **Status:** Proccess
   
-**Time run successfully** 90 min  
-**Time expended**         50 min  
+**Time expended**         135 min  
 **Link to final product** []()  
 **No attempt** 01 de 01  
 
 | **Date**              | **Step No**              | **Documentation** |
 |-----------------------|--------------------------|-------------------|
 | 2024-03-12 11:25:00   | Familiar with tree app   | very complex      |
-| 2024-03-12 16:05:00   | End                      |
+| 2024-03-12 13:40:00   | End                      |
 
 **Results:**  
 
