@@ -10,7 +10,7 @@
 |-----------------------|--------------------------|-------------------|
 | 2024-03-15 13:00:00   | ArcGIS Workforce         | [here](https://fleming.maps.arcgis.com/apps/workforce/projects/13b23d4f37834ed9b7aa03f814078f0e/dispatch/assignments)      |
 | 2024-03-15 14:32:00   | End                      |
-| 2024-03-20 9:00:00   | KoboToolbox              |       |
+| 2024-03-20 9:00:00   | KoboToolbox              | https://ee.kobotoolbox.org/x/BAYRNgeG |
 | 2024-03-20 10:42:00   | End                      |
 | 2024-00-00 00:00:00   | Survey123                |       |
 | 2024-00-00 00:00:00   | qfield                   |      |
