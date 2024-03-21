@@ -18,11 +18,11 @@
 | 2024-00-00 00:00:00   | End                      |
 
 **Link to this solution:**  
-[ArcGIS Workforce](#ArcGIS-Workforce)
-KoboToolbox
-Survey123
-qfield
-field maps
+[ArcGIS Workforce](#ArcGIS-Workforce)  
+[KoboToolbox](#KoboToolbox)
+[Survey123](Survey123)
+[qfield](qfield)
+[field maps](field maps)
 
 
 **Next steps:**
