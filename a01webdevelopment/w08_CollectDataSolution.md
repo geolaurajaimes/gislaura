@@ -17,8 +17,8 @@
 | 2024-00-00 00:00:00   | field maps               |       |
 | 2024-00-00 00:00:00   | End                      |
 
-**Results:**  
-ArcGIS Workforce
+**Link to this solution:**  
+# [ArcGIS Workforce](#ArcGIS Workforce)
 KoboToolbox
 Survey123
 qfield
