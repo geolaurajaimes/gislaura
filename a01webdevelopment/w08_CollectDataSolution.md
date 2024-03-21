@@ -19,10 +19,10 @@
 
 **Link to this solution:**  
 [ArcGIS Workforce](#ArcGIS-Workforce)  
-[KoboToolbox](#KoboToolbox)
-[Survey123](Survey123)
-[qfield](qfield)
-[field maps](field maps)
+[KoboToolbox](#KoboToolbox)  
+[Survey123](Survey123)  
+[qfield](qfield)  
+[field maps](field maps)  
 
 
 **Next steps:**
