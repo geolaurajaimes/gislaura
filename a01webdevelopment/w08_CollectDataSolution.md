@@ -139,7 +139,10 @@ It will look like a cascading question.
 ![image](../a00templates/img/img182.png)  
 You can configure that if a question is answered in a certain way, it asks another series of questions and skips them, but to avoid having to configure each question individually by putting the condition in the group  
 ![image](../a00templates/img/img183.png)  
-
+Under FORM, you can deploy the survey and choose how you will collect the data online, offline, both, ability to receive multiple surveys or single surveys. You can also deploy the survey using an embedded html link, so that the survey is answered on your web page  
+![image](../a00templates/img/img184.png)   
+Below data, you can see the data of the surveys carried out, there are several options such as viewing the report, you can see graphs of the results, table of collected data, gallery in case the survey includes videos, photos, etc., and you can also download the data or view it on a map.  
+![image](../a00templates/img/img185.png)   
 ----------------------------------------------------------------------  
 # Survey123
 
