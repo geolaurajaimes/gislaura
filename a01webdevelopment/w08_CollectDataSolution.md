@@ -8,11 +8,12 @@
 
 | **Date**              | **Step No**              | **Documentation** |
 |-----------------------|--------------------------|-------------------|
-| 2024-03-15 13:00:00   | ArcGIS Workforce         | [here](https://fleming.maps.arcgis.com/apps/workforce/projects/13b23d4f37834ed9b7aa03f814078f0e/dispatch/assignments)      |
+| 2024-03-15 13:00:00   | ArcGIS Workforce         | https://fleming.maps.arcgis.com/apps/workforce/projects/13b23d4f37834ed9b7aa03f814078f0e/dispatch/assignments |
 | 2024-03-15 14:32:00   | End                      |
 | 2024-03-20 9:00:00   | KoboToolbox              | https://ee.kobotoolbox.org/x/BAYRNgeG |
 | 2024-03-20 10:42:00   | End                      |
-| 2024-00-00 00:00:00   | Survey123                |       |
+| 2024-03-22 11:30:00   | Survey123                | https://fleming.maps.arcgis.com/home/item.html?id=03ba8d8b73cf4cb781eb03333f09bbf0 |
+| 2024-03-22 12:37:00   | End                      |
 | 2024-00-00 00:00:00   | qfield                   |      |
 | 2024-00-00 00:00:00   | field maps               |       |
 | 2024-00-00 00:00:00   | End                      |
@@ -173,6 +174,9 @@ The email and photo options are also very useful.
 ![image](../a00templates/img/img203.png)  
 The group option allows questions to be grouped together, perhaps useful in a long survey or a sectional survey  
 ![image](../a00templates/img/img204.png)  
+### observation:
+When publishing the survey, it was uploaded for a longer time than normal, as no changes were saved at any time during the process, the survey was completely lost.
+![imagen](../a00templates/img/img214.png)
 
 # qfield
 
