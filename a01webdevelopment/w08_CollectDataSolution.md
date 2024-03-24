@@ -6,7 +6,7 @@
 **Status:** In Proccess
 **Time expended**         000    
 
-| **Date**              | **Step No**              | **Documentation** |
+| **Date**              | **Step No**              | **Link output** |
 |-----------------------|--------------------------|-------------------|
 | 2024-03-15 13:00:00   | ArcGIS Workforce         | https://fleming.maps.arcgis.com/apps/workforce/projects/13b23d4f37834ed9b7aa03f814078f0e/dispatch/assignments |
 | 2024-03-15 14:32:00   | End                      |
@@ -14,16 +14,10 @@
 | 2024-03-20 10:42:00   | End                      |
 | 2024-03-22 11:30:00   | Survey123                | https://fleming.maps.arcgis.com/home/item.html?id=03ba8d8b73cf4cb781eb03333f09bbf0 |
 | 2024-03-22 12:37:00   | End                      |
-| 2024-00-00 00:00:00   | qfield                   |      |
+| 2024-03-24 16:18:00   | qfield                   |      |
+| 2024-00-00 00:00:00   | End                      |
 | 2024-00-00 00:00:00   | field maps               |       |
 | 2024-00-00 00:00:00   | End                      |
-
-**Link to this solution:**  
-[ArcGIS Workforce](#ArcGIS-Workforce)  
-[KoboToolbox](#KoboToolbox)  
-[Survey123](Survey123)  
-[qfield](qfield)  
-[field maps](#field-maps)  
 
 
 **Next steps:**
