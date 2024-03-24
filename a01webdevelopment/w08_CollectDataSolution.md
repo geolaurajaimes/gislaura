@@ -145,6 +145,34 @@ Below data, you can see the data of the surveys carried out, there are several o
 ![image](../a00templates/img/img185.png)   
 ----------------------------------------------------------------------  
 # Survey123
+Tutorial: https://www.youtube.com/watch?v=ROv7cDdgYLo  
+Select the Survey123 app  
+![image](../a00templates/img/img193.png)  
+This application is not to collect data, it is to design the survey, click Create new survey  
+![image](../a00templates/img/img194.png)  
+The options are: Blank survey, Template survey and Survey123 Connect, in this case Blank survey was selected  
+![image](../a00templates/img/img195.png)  
+You can change the interface color, the project title and the survey title, you can also configure the final submited message  
+![image](../a00templates/img/img196.png)  
+This survey is initially empty, but in the design tab you can start adding questions to the survey, each control in the right panel has a question type control, each question will be a field  
+![image](../a00templates/img/img197.png)  
+An example is the single line of text, you can configure the number of characters, if it is a mandatory question to fill out.  
+![image](../a00templates/img/img198.png)  
+You can use single choice to choose one option and give or not give him the option of another  
+If you leave one of the answers selected, it will be marked by default, but the respondent can change it  
+The batch edit option is for the case where the options listed will be many, you can copy and paste them  
+![image](../a00templates/img/img199.png)  
+Well, use multiline for additional observations, this is important for cases that do not fit the options, you can limit the number of characters, in this case you can configure so that the other field only appears if the other box was checked  
+![image](../a00templates/img/img200.png)  
+Multiple choice grid is filled out in a similar way but can ask several related questions, in this case the batch option was used to enter the options.  
+![image](../a00templates/img/img201.png)
+The map option is useful to give a geographic location to the request so that it can be addressed appropriately. You can also ask for permission to access the location.  
+![image](../a00templates/img/img202.png)  
+If the options are many, dropdown is a good alternative and can be set with autocomplete, which will allow you to quickly find  
+The email and photo options are also very useful.  
+![image](../a00templates/img/img203.png)  
+The group option allows questions to be grouped together, perhaps useful in a long survey or a sectional survey  
+![image](../a00templates/img/img204.png)  
 
 # qfield
 
