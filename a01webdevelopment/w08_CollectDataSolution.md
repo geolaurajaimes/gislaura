@@ -175,7 +175,16 @@ Final survey
 
 
 # qfield
-
+1. I downloaded QField for windows and registered on QField Cloud
+![Step](../a00templates/img/img113.png)
+2. I created a project on QField Cloud.
+![Step](../a00templates/img/img114.png)
+3. Later, I clicked on ‘Open a local file’ and selected the shapefile of the municipalities of Ontario.
+![Step](../a00templates/img/img115.png)
+4. After that, I switched to digitize mode.
+![Step](../a00templates/img/img116.png)
+5. In digitize mode, I created a new polygon
+![Step](../a00templates/img/img117.png)
 
 # Field Maps Designer
 1. From ArcGIS Online I clicked on the ‘Apps button’ and selected ‘Field Maps Designer.
