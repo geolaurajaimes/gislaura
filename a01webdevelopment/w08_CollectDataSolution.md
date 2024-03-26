@@ -203,40 +203,41 @@ https://fleming.maps.arcgis.com/apps/mapviewer/index.html?webmap=232cb7cccd6241a
 
 # i-Tree
 i-Tree has several tree related solutions, i-Tree eco is for tree inventory.  
+![image](../a00templates/img/img218.png)  
 documentation here: https://www.itreetools.org/tools/supplemental-tools  
 ![image](../a00templates/img/img215.png)  
 You must request the application, the executable will be sent by email  
 ![image](../a00templates/img/img216.png)  
 The installation executable installs everything necessary, in this case the recommended version was installed because the advanced version takes up more space on the disk  
 ![image](../a00templates/img/img217.png)  
+Thi is the interface
+![image](../a00templates/img/img231.png)
 Under File, create a new project  
-![image](../a00templates/img/img218.png)  
+![image](../a00templates/img/img220.png) 
 For this example we will do just one example instead of a complete inventory.  
-![image](../a00templates/img/img219.png)  
+![image](../a00templates/img/img221.png) 
 Save the project in the desired location (.ieco)  
-![image](../a00templates/img/img220.png)  
+ ![image](../a00templates/img/img222.png)  
 Enter the Project overview  
-![image](../a00templates/img/img221.png)  
+  ![image](../a00templates/img/img223.png) 
 Select the location of the data  
-![image](../a00templates/img/img222.png)  
+![image](../a00templates/img/img224.png)  
 Select the data for Weather and pollution, if the desired station does not appear it can be included manually  
-![image](../a00templates/img/img223.png)  
 In data collection options tab, you can select required, recommended or discard unwanted data. English and general fields land use were selected  
 For tree detail field, all recommended ones in blue were selected  
 Note that the documentation associated with the window being filled out always appears on the left.  
-![image](../a00templates/img/img224.png)  
+![image](../a00templates/img/img225.png)  
 Under Project settings, the study area can be adjusted  
 You can view land use categories and health categories.  
 Under Project and strata area: you will see that the city is selected, there you can confirm that the area is correct  
-![image](../a00templates/img/img225.png)  
+![image](../a00templates/img/img226.png)    
 The area was calculated in arcgis pro using calculate geometry in international acres  
-![image](../a00templates/img/img226.png)  
+![image](../a00templates/img/img227.png) 
 To load the data: under the Project Configuration tab, in the group define plots, user defined (can also be using Google maps or from a local file)  
-![image](../a00templates/img/img227.png)  
+![image](../a00templates/img/img228.png) 
 Under the Data tab, you can confirm by clicking on Plots that all 200 plots are there.  
-![image](../a00templates/img/img228.png)  
-Under the Data tab you can click submit to Mobile to go to the field and start inventorying the data.  
 ![image](../a00templates/img/img229.png)  
+Under the Data tab you can click submit to Mobile to go to the field and start inventorying the data.  
+![imagen](../a00templates/img/img230.png) 
 Los datos colectados por los trabajadores en campo pueden ser analizados, visualizados y exportados (CSV o KMZ)
-![imagen](../a00templates/img/img230.png)
-
+![image](../a00templates/img/img219.png) 
