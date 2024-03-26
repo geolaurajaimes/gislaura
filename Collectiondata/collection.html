@@ -1,38 +1,55 @@
 <!DOCTYPE html>
 <html lang="en">
+<!-- Date: March 25, 2024 (v1)-->
 <head>
-    <!-- viewport meta tag for responsive windows -->
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title> Data Collection Solutions </title>
-    <style>
-        body {
-            font-family: "Century Gothic", sans-serif;
-        }
-        nav {
-            background-color: #333;
-            overflow: hidden;
-        }
-        nav a {
-            float: right;
-            display: block;
-            color: white;
-            text-align: center;
-            padding: 14px 20px;
-            text-decoration: none;
-        }
-        nav a:hover {
-            background-color: #ddd;
-            color: black;
-        }
-    </style>
+    <title> Data Collection Solutions - home </title>
+		<!-- viewport meta tag for responsive windows -->
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<!-- link to css -->
+		<link rel="stylesheet" href="style.css">
+		<!-- Link to awesome font icons -->
+		<!-- https://www.w3schools.com/icons/fontawesome_icons_intro.asp -->
+		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+	
 </head>
+
 <body>
-    <nav>
+	<!-- HTML for the Navigation Bar -->
+    <nav id = "navbar">
         <a href="open_source.html">Open Source</a>
         <a href="commercial_source.html">Commercial Source</a>
+		<a href="team.html">Team</a>
+		<a href="collection.html">Home</a>
     </nav>
+	<!-- HTML for the Navigation Bar end -->
+	
+	<!-- Page content -->
+    <h1>City Asset Data collection</h1>
+    <h2>Ideal:</h2>
+    <p>Finding the easiest and most efficient ways to collect data from the public to report aspects of city assets.</p>
 
-    <h1>Titulo</h1>
-    <p>Parrafo</p>
+    <h2>Reality:</h2>
+    <p>The methods of collecting data for city assets are messy and disorganized, and gathering public complaints and work reports needs to be updated.</p>
+
+    <h2>Consequences:</h2>
+    <p>Calling in asset complaints and paperwork orders are messy and inefficient, things get missed, and data is lost due to a lack of digitization and organization.</p>
+
+    <h2>Proposal:</h2>
+    <p>Trying out ways of collecting city asset data from the public to determine which platforms/methods are most efficient in collecting data.</p>
+	
+	<!-- Dashboard iframe -->
+	<iframe src="https://fleming.maps.arcgis.com/apps/dashboards/88b233fbbfd34d4499a9628e43f2b1dd" width="100%" height="600" frameborder="0"></iframe>
+	<!-- Page content end -->
+	
+	<!-- Footer start -->
+	<footer> 
+		<div class="col-1">
+		<footer-heading>GEOM99 - Web Development </footer-heading>
+			<p>Class project</p>
+			<p><a href="team.html" target="_blank">Our team</a></p>
+			<p>Collection GIS solutions<p>
+		</div>
+	</footer> 
+	<!-- End Footer-->
 </body>
 </html>
