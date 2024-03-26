@@ -16,7 +16,7 @@
 | 2024-03-22 12:37:00   | End                      |
 | 2024-03-24 16:18:00   | qfield                   |      |
 | 2024-00-00 00:00:00   | End                      |
-| 2024-00-00 00:00:00   | field maps               | [link](https://fieldmaps.arcgis.app/?itemID=5bcabd38ab8040e69654c50619afeaf3&referenceContext=open&portalURL=https%3A%2F%2FFleming.maps.arcgis.com) |
+| 2024-00-00 00:00:00   | field maps               | [link](https://fieldmaps.arcgis.app/?itemID=5bcabd38ab8040e69654c50619afeaf3&referenceContext=open&portalURL=https%3A%2F%2FFleming.maps.arcgis.com) and [link2](https://fleming.maps.arcgis.com/apps/mapviewer/index.html?webmap=232cb7cccd6241abb9ca6d08c7cb9d04)|
 | 2024-00-00 00:00:00   | End                      |
 
 
@@ -198,3 +198,4 @@ I clicked on the 'geofence' tab and, later, on the 'add geofence' button
 ![Step](../a00templates/img/img103.png)
 10. I set a location alert every time the surveyor is out of the municipality. The results of this Field map can be seen on the web map called ‘New Fake Tree map
 ![Step](../a00templates/img/img104.png)
+https://fleming.maps.arcgis.com/apps/mapviewer/index.html?webmap=232cb7cccd6241abb9ca6d08c7cb9d04
