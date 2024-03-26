@@ -12,7 +12,7 @@
 | 2024-03-15 14:32:00   | End                      |
 | 2024-03-20 9:00:00   | KoboToolbox              | https://ee.kobotoolbox.org/x/BAYRNgeG |
 | 2024-03-20 10:42:00   | End                      |
-| 2024-03-22 11:30:00   | Survey123                | https://fleming.maps.arcgis.com/home/item.html?id=03ba8d8b73cf4cb781eb03333f09bbf0 |
+| 2024-03-22 11:30:00   | Survey123                | https://survey123.arcgis.com/share/96530d1aaac04a9fb91863b7b517011e |
 | 2024-03-22 12:37:00   | End                      |
 | 2024-03-24 16:18:00   | qfield                   |      |
 | 2024-00-00 00:00:00   | End                      |
@@ -169,8 +169,9 @@ The email and photo options are also very useful.
 The group option allows questions to be grouped together, perhaps useful in a long survey or a sectional survey  
 ![image](../a00templates/img/img204.png)  
 ### observation:
-When publishing the survey, it was uploaded for a longer time than normal, as no changes were saved at any time during the process, the survey was completely lost.
+Final survey
 ![imagen](../a00templates/img/img214.png)
+
 
 # qfield
 
