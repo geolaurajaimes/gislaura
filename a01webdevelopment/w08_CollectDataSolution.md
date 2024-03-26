@@ -8,15 +8,15 @@
 
 | **Date**              | **Step No**              | **Link output** |
 |-----------------------|--------------------------|-------------------|
-| 2024-03-15 13:00:00   | ArcGIS Workforce         | https://fleming.maps.arcgis.com/apps/workforce/projects/13b23d4f37834ed9b7aa03f814078f0e/dispatch/assignments |
+| 2024-03-15 13:00:00   | ArcGIS Workforce         | [link](https://fleming.maps.arcgis.com/apps/workforce/projects/13b23d4f37834ed9b7aa03f814078f0e/dispatch/assignments) |
 | 2024-03-15 14:32:00   | End                      |
-| 2024-03-20 9:00:00   | KoboToolbox              | https://ee.kobotoolbox.org/x/BAYRNgeG |
+| 2024-03-20 9:00:00   | KoboToolbox               | [link](https://ee.kobotoolbox.org/x/BAYRNgeG) |
 | 2024-03-20 10:42:00   | End                      |
-| 2024-03-22 11:30:00   | Survey123                | https://survey123.arcgis.com/share/96530d1aaac04a9fb91863b7b517011e |
+| 2024-03-22 11:30:00   | Survey123                | [link](https://survey123.arcgis.com/share/96530d1aaac04a9fb91863b7b517011e) |
 | 2024-03-22 12:37:00   | End                      |
 | 2024-03-24 16:18:00   | qfield                   |      |
 | 2024-00-00 00:00:00   | End                      |
-| 2024-00-00 00:00:00   | field maps               |       |
+| 2024-00-00 00:00:00   | field maps               | [link](https://fieldmaps.arcgis.app/?itemID=5bcabd38ab8040e69654c50619afeaf3&referenceContext=open&portalURL=https%3A%2F%2FFleming.maps.arcgis.com) |
 | 2024-00-00 00:00:00   | End                      |
 
 
@@ -175,4 +175,26 @@ Final survey
 
 # qfield
 
-# field maps
+
+# Field Maps Designer
+1. From ArcGIS Online I clicked on the ‘Apps button’ and selected ‘Field Maps Designer.
+![Step](../a00templates/img/img03.png)
+2. Later, I selected a web map that I had previously created called ‘New Fake Tree map
+![Step](../a00templates/img/img04.png)
+3. Then, I clicked on the ‘Forms’ tab
+![Step](../a00templates/img/img05.png)
+4. I added a combo box called Condition, with a field length of 50
+![Step](../a00templates/img/img06.png)
+5. After that, I created a list of values, including four categories (Excellent, Good, Poor, and Very Poor)
+![Step](../a00templates/img/img07.png)
+6. Later, I saved changes at the top right button (next to properties)
+![Step](../a00templates/img/img08.png)
+7. After that, I added a switch field called Fruit Tree, which allows me to select whether the tree bears fruits
+![Step](../a00templates/img/img09.png)
+8. Later, I added a layer containing the location of other trees (Fake trees layer)
+![Step](../a00templates/img/img102.png)
+9. To ensure that the surveyor includes the trees within the municipality of Kawartha Lakes, I used the city's boundary as a geofence.
+I clicked on the 'geofence' tab and, later, on the 'add geofence' button
+![Step](../a00templates/img/img103.png)
+10. I set a location alert every time the surveyor is out of the municipality. The results of this Field map can be seen on the web map called ‘New Fake Tree map
+![Step](../a00templates/img/img104.png)
